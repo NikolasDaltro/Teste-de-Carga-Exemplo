@@ -36,7 +36,6 @@ Resumo exibido no terminal com estatísticas completas.
 
 ## Observação sobre execução
 
-- O JMeter não foi encontrado no PATH do sistema durante a execução anterior.
 - O script PowerShell pode ser executado mesmo sem JMeter.
 
 ## Nota

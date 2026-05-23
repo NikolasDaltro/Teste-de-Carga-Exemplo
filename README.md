@@ -40,4 +40,4 @@ Resumo exibido no terminal com estatísticas completas.
 
 ## Nota
 
-Este plano é genérico e pode ser usado para qualquer URL de teste. Atualize os dados no Test Plan ou o script PowerShell conforme necessário.
+Este plano é genérico e pode ser usado para qualquer URL de teste. 
